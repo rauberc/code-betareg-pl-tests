@@ -1,12 +1,16 @@
-# Improved testing inferences for beta regressions with parametric mean link function
+# [Improved testing inferences for beta regressions with parametric mean link function](https://link.springer.com/article/10.1007/s10182-020-00376-3)
 
-The computer code can be used to perform data analysis and Monte Carlo simulations.
+This code code can be used to perform data analysis and Monte Carlo simulations.
 
-## Authors
+# Authors
 
 Cristine Rauber, Francisco Cribari-Neto, Fábio M. Bayer
 
-## Programming language 
+# How to cite this work
+
+Rauber, C., Cribari-Neto, F., & Bayer, F. M. (2020). Improved testing inferences for beta regressions with parametric mean link function. AStA Advances in Statistical Analysis, 104(4), 687-717.
+
+# Programming language 
 
 [Ox](https://www.doornik.com/) The console version of Ox is freely distributed for academic use. It is currently available for Windows, Linux, macOS, and several Unix platforms.
 
@@ -77,9 +81,9 @@ The program is used to compute the null rejection rates of the tests of H0: \bet
 
 2. IDE, via OxEdit: Open the file phi30beta4.ox in OxEdit (Ox IDE) and then click on: Run -> Ox
 
-## Contact 
+# Contact 
 
 Cristine Rauber (rauberoliveira at gmail.com)
 
-## License
+# License
 [MIT](https://github.com/rauberc/code_betareg/blob/main/LICENSE)
