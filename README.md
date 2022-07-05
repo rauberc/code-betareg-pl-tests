@@ -82,4 +82,4 @@ The program is used to compute the null rejection rates of the tests of H0: \bet
 Cristine Rauber (rauberoliveira at gmail.com)
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/rauberc/code_betareg/blob/main/LICENSE)
